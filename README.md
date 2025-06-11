@@ -1,4 +1,4 @@
-# 🧠 NudgeNote
+# 📚 NudgeNote
 
 **NudgeNote** is a lightweight, privacy-focused reminder app built with the Nextjs. It helps users stay organized through time & location based nudges and in-app notifications.
 
